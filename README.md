@@ -9,10 +9,11 @@ aavdisd07/aavdisd07 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+![Shadir's GitHub Banner]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FWZ57&psig=AOvVaw1LLfSjX0RY3eLRPxtGxGCv&ust=1703935300846000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCw1-zDtIMDFQAAAAAdAAAAABAJ')
 
 <h1 align="center">Hi 👋, I'm Avantika Deshmukh</h1>
 <h3 align="center">A passionate frontend developer and Programmer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmassagem-modeladora--584482857915304041%2F&psig=AOvVaw2ya9Y8h67x8XsiQLdt0g3b&ust=1703934259480000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCegPa_tIMDFQAAAAAdAAAAABAJ">
+<img  align="right" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplaygroundai.com%2Fsearch%3Fq%3DA%2Bprogrammer%2Bgirl%2Busing%2B%2Bcomputer&psig=AOvVaw2ya9Y8h67x8XsiQLdt0g3b&ust=1703934259480000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPCegPa_tIMDFQAAAAAdAAAAABAR" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavdisd07&label=Profile%20views&color=0e75b6&style=flat" alt="aavdisd07" /> </p>
 
 - 🔭 I’m currently working on **My Local projects and Skills**
