@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-![Shadir's GitHub Banner](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
+![Avantika's GitHub Banner](https://github.com/aavdisd07/aavdisd07/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Avantika Deshmukh</h1>
 <h3 align="center">A passionate frontend developer and Programmer from India</h3>
