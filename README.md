@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/aavdisd07](https://github.com/aavdisd07)
 
-- 📫 My 2023 rewind of Leetcode [https://leetcode.com/rewind/2023/?source=discuss](leetcode.com/rewind/?ref=2021bit153)
+- 📫 My 2023 rewind of Leetcode [https://leetcode.com/rewind/2023/?source=discuss](https://leetcode.com/rewind/2023/?source=discuss)
 
 - 💬 Ask me about **Web Development and programming**
 
