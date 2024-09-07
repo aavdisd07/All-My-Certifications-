@@ -1,4 +1,4 @@
-<!---
+
 aavdisd07/aavdisd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m avantisd07
@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on various projects based on real time.
 - 📫 How to reach me 2021bit153@sggs.ac.in
 
---->
+
 
 ![Avantika's GitHub Banner](https://github.com/aavdisd07/aavdisd07/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.gif)
 
@@ -51,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aavdisd07&show_icons=true&locale=en" alt="aavdisd07" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aavdisd07&" alt="aavdisd07" /></p>
-<!-- <a href="leetcode.com/rewind/?ref=2021bit153" target="blank"> -->
+<a href="leetcode.com/rewind/?ref=2021bit153" target="blank">
 
 
